@@ -152,4 +152,8 @@ if __name__ == "__main__":
 - Sync를 맞추기위해 값을 서버에서 가져오거나 보낼 떄는 전달방법을 고민해야 한다. 
 
 ### 실행 
+윈도우에서 스크래치 2.0 offline 에티터가 설치되어 있고, python 2.7로 서버를 실행하는 환경. 
+1. scratch_http_extension.sb2를 더블클릭하여 실행 
+2. python scratch_http_extension.py로 실행 
+
 ![](scratch.gif)
