@@ -1,0 +1,11 @@
+{
+    "extensionName": "기초예제: 확장블록",
+    "extensionPort": 50505,
+    "blockSpecs": [
+        [" ", "%m.valueName 값을 %n 으로 바꾸기", "setValue"],
+        ["r", "%m.valueName 값", "value"],
+    ],
+    "menus": {
+        "valueName": ["x", "y"]
+    },
+}
